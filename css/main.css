@@ -263,6 +263,7 @@ header .link ul .main-icon a i:hover{
 .services .box{
     text-align: center;
     padding: 15px;
+    border: 1px solid transparent;
     transition: var(--mainTransition);
 }
 .services .box:hover{
